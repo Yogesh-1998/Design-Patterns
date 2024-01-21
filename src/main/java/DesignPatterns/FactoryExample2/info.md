@@ -1,0 +1,2 @@
+Factory method is a method that hides logic of creation of an Object
+It also hides the type of the object created so that it is decoupled and in the future it can be replaced very easily just but updating the factory method

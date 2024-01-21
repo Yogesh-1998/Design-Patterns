@@ -1,0 +1,1 @@
+Copy an existing object instead of using a new. This is beneficial in case when the object creation is costly.
